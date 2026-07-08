@@ -1,0 +1,9 @@
+ultralytics
+mediapipe
+opencv-python
+numpy
+
+confluent-kafka
+pymongo
+
+pygame-ce
